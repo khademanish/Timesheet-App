@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__progress_spinner.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__progress_spinner.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__oauth_background.png",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__oauth_background.png"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__login_content_header.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__login_content_header.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__header_bg.png",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__header_bg.png"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__header_drop_shadow.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__header_drop_shadow.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__header_refresh.png",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__header_refresh.png"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__header_refresh_states.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__header_refresh_states.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__header_left_border.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__header_left_border.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__nav_shadow.png",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__nav_shadow.png"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__toolbar_background.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__toolbar_background.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__header_refresh_press.png",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__header_refresh_press.png"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__oauth_container_dropshadow.9.png",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__oauth_container_dropshadow.9.png"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__refresh_loader.png",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__refresh_loader.png"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\sf__header_right_border.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xlarge-v4\\sf__header_right_border.xml"
+    }
+]

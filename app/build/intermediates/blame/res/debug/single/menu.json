@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sf__clear_custom_url.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\menu\\sf__clear_custom_url.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\app\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_drawer_drawer.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\app\\res\\menu\\activity_drawer_drawer.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sf__login.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\menu\\sf__login.xml"
+    }
+]

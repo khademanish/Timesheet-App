@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:3:5-26
+	android:versionName
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:6:5-30
+		INJECTED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml
+		INJECTED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:5:5-28
+		INJECTED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml
+		INJECTED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:4:5-43
+uses-sdk
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:8:5-10:41
+MERGED from [Timesheet.libs:SmartSync:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SmartSync\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [Timesheet.libs:SmartStore:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [Timesheet.libs:SalesforceAnalytics:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\Manish\.android\build-cache\f6296a9749353d379545b408a12bdeb15cc29a51\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\Manish\.android\build-cache\0bd480570e24da886ac6164eb264c3d13e820291\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Manish\.android\build-cache\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Manish\.android\build-cache\a2bef3fe3df400ef7c4c59821fa5f53316104b73\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Manish\.android\build-cache\083923f0d25b6c2df46c35d8126a7264e0087a94\output\AndroidManifest.xml:17:5-43
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.2] C:\Users\Manish\.android\build-cache\28a46a25b29e45e4d35f19dfb219ab7a3bee9a2c\output\AndroidManifest.xml:3:3-40
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\5829df0a399e1f9fe1cbbd19a98099c4804d17b7\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\178f3024f0631fb3172d35b1c1fe1e4a0514c909\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\3ae6a2ee46b3e58c0be628a74fb827adf96c13ff\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\690d60122b52043fdb4f4e4b7fbf6b0bd65ce628\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\f16c2a84f75e1d6763c7fc6d2a0faa5323882227\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\7ac963e5f557b8a95acf090211f15747483c7043\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Manish\.android\build-cache\15b4f0f688d1e0c44293c756c56610cf7d4fa600\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\aaeed7b5b34eea3482209404b10a54fa32164121\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\1a917f4ace665ffa40615f53cba10aa5dfa17f5a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\7561c36e836e2785ec0037683ef1189f73f4d4fc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\170f46b9c79fa434ed00a556af9465b3ce9838c3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\14b1e6af7e15f35f099b7e2ff38e8c7a0aa2db6f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\778e37e70f8831197f1a546571bd606f0ebf93af\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\5829df0a399e1f9fe1cbbd19a98099c4804d17b7\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:10:9-38
+	android:minSdkVersion
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:9:9-35
+permission#com.mrk.pkg.C2D_MESSAGE
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:17:5-19:47
+	android:protectionLevel
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:18:9-47
+uses-permission#com.mrk.pkg.C2D_MESSAGE
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:21:5-63
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:21:22-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:23:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:24:22-77
+application
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:26:5-49:19
+MERGED from [Timesheet.libs:SmartSync:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SmartSync\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [Timesheet.libs:SmartStore:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:5-115:19
+MERGED from [Timesheet.libs:SalesforceAnalytics:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:14:5-20
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\Manish\.android\build-cache\f6296a9749353d379545b408a12bdeb15cc29a51\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\Manish\.android\build-cache\0bd480570e24da886ac6164eb264c3d13e820291\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Manish\.android\build-cache\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Manish\.android\build-cache\a2bef3fe3df400ef7c4c59821fa5f53316104b73\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Manish\.android\build-cache\083923f0d25b6c2df46c35d8126a7264e0087a94\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\5829df0a399e1f9fe1cbbd19a98099c4804d17b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\178f3024f0631fb3172d35b1c1fe1e4a0514c909\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\3ae6a2ee46b3e58c0be628a74fb827adf96c13ff\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\690d60122b52043fdb4f4e4b7fbf6b0bd65ce628\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\7ac963e5f557b8a95acf090211f15747483c7043\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Manish\.android\build-cache\15b4f0f688d1e0c44293c756c56610cf7d4fa600\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\aaeed7b5b34eea3482209404b10a54fa32164121\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\1a917f4ace665ffa40615f53cba10aa5dfa17f5a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\7561c36e836e2785ec0037683ef1189f73f4d4fc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\170f46b9c79fa434ed00a556af9465b3ce9838c3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\14b1e6af7e15f35f099b7e2ff38e8c7a0aa2db6f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\778e37e70f8831197f1a546571bd606f0ebf93af\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:29:9-41
+	android:manageSpaceActivity
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:30:9-87
+	android:icon
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:28:9-42
+	android:theme
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:27:9-40
+activity#com.mrk.pkg.MainActivity
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:34:9-37:83
+	android:label
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:36:13-45
+	android:theme
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:37:13-71
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:35:13-41
+activity#com.mrk.pkg.DrawerActivity
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:38:9-47:20
+	android:label
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:40:13-38
+	android:theme
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:39:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:45:27-74
+activity#com.mrk.pkg.AddHoursActivity
+ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:48:9-63
+	android:name
+		ADDED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml:48:19-51
+activity#com.salesforce.androidsdk.smartstore.ui.SmartStoreInspectorActivity
+ADDED from [Timesheet.libs:SmartStore:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:14:9-104
+	android:name
+		ADDED from [Timesheet.libs:SmartStore:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:14:19-101
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:5-82
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\Manish\.android\build-cache\f6296a9749353d379545b408a12bdeb15cc29a51\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\Manish\.android\build-cache\0bd480570e24da886ac6164eb264c3d13e820291\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:22-79
+uses-permission-sdk-23
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:29-78
+meta-data#android.content.APP_RESTRICTIONS
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:25:9-27:56
+	android:resource
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:26:13-60
+service#com.salesforce.androidsdk.auth.AuthenticatorService
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:30:9-40:19
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:31:13-79
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:13-35:29
+action#android.accounts.AccountAuthenticator
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:17-80
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:37:13-39:57
+	android:resource
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:39:17-54
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:38:17-69
+activity#com.salesforce.androidsdk.ui.LoginActivity
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:43:9-45:67
+	android:theme
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:45:13-64
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:44:13-70
+activity#com.salesforce.androidsdk.ui.PasscodeActivity
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:48:9-50:67
+	android:theme
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:50:13-64
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:49:13-73
+activity#com.salesforce.androidsdk.ui.ManageSpaceActivity
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:53:9-56:67
+	android:excludeFromRecents
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:55:13-46
+	android:theme
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:56:13-64
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:54:13-76
+activity#com.salesforce.androidsdk.ui.ServerPickerActivity
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:59:9-62:67
+	android:excludeFromRecents
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:61:13-46
+	android:theme
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:62:13-64
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:60:13-77
+activity#com.salesforce.androidsdk.ui.AccountSwitcherActivity
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:65:9-68:67
+	android:excludeFromRecents
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:67:13-46
+	android:theme
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:68:13-64
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:66:13-80
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:75:9-84:20
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:77:13-36
+	android:permission
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:78:13-73
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:76:13-66
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:79:13-83:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:17-81
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:25-78
+category#${applicationId}
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:82:17-61
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:82:27-58
+		INJECTED from F:\Android SF SDK\Timesheet\app\AndroidManifest.xml
+service#com.salesforce.androidsdk.push.SFDCGcmListenerService
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:86:9-92:19
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:87:13-81
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:89:13-91:29
+service#com.salesforce.androidsdk.push.SFDCInstanceIDListenerService
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:93:9-99:19
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:94:13-88
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:96:13-98:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:97:17-80
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:97:25-77
+service#com.salesforce.androidsdk.push.SFDCRegistrationIntentService
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:100:9-103:19
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:102:13-37
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:101:13-88
+receiver#com.salesforce.androidsdk.push.PushService$SFDCRegistrationRetryAlarmReceiver
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:105:9-107:40
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:106:13-105
+service#com.salesforce.androidsdk.push.PushService
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:109:9-111:40
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:110:13-70
+service#com.salesforce.androidsdk.analytics.AnalyticsPublisherService
+ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:112:9-114:40
+	android:exported
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:114:13-37
+	android:name
+		ADDED from [Timesheet.libs:SalesforceSDK:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:113:13-89
+uses-permission#android.permission.INTERNET
+ADDED from [Timesheet.libs:SalesforceAnalytics:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\Manish\.android\build-cache\f6296a9749353d379545b408a12bdeb15cc29a51\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\Manish\.android\build-cache\0bd480570e24da886ac6164eb264c3d13e820291\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [Timesheet.libs:SalesforceAnalytics:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [Timesheet.libs:SalesforceAnalytics:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [Timesheet.libs:SalesforceAnalytics:unspecified] F:\Android SF SDK\Timesheet\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:12:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Manish\.android\build-cache\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Manish\.android\build-cache\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Manish\.android\build-cache\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Manish\.android\build-cache\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Manish\.android\build-cache\083923f0d25b6c2df46c35d8126a7264e0087a94\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Manish\.android\build-cache\083923f0d25b6c2df46c35d8126a7264e0087a94\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Manish\.android\build-cache\083923f0d25b6c2df46c35d8126a7264e0087a94\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\5829df0a399e1f9fe1cbbd19a98099c4804d17b7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\178f3024f0631fb3172d35b1c1fe1e4a0514c909\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\3ae6a2ee46b3e58c0be628a74fb827adf96c13ff\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\690d60122b52043fdb4f4e4b7fbf6b0bd65ce628\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\f16c2a84f75e1d6763c7fc6d2a0faa5323882227\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\7ac963e5f557b8a95acf090211f15747483c7043\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\aaeed7b5b34eea3482209404b10a54fa32164121\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\1a917f4ace665ffa40615f53cba10aa5dfa17f5a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\7561c36e836e2785ec0037683ef1189f73f4d4fc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\170f46b9c79fa434ed00a556af9465b3ce9838c3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\14b1e6af7e15f35f099b7e2ff38e8c7a0aa2db6f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\778e37e70f8831197f1a546571bd606f0ebf93af\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\5829df0a399e1f9fe1cbbd19a98099c4804d17b7\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Manish\.android\build-cache\5829df0a399e1f9fe1cbbd19a98099c4804d17b7\output\AndroidManifest.xml:26:9-47

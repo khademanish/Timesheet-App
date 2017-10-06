@@ -1,0 +1,7 @@
+#Fri Oct 06 21:45:33 IST 2017
+base.0=F\:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e09f2e6ed9af3605d128ff06db480786bce6ed70
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_36d69d3612b2c7339fe1e37a710684712cf0c57e\\classes.dex
+base.1=F\:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_36d69d3612b2c7339fe1e37a710684712cf0c57e
+file.0=F\:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e09f2e6ed9af3605d128ff06db480786bce6ed70\\classes.dex

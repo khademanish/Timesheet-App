@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\xml\\servers.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_restrictions.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\app_restrictions.xml"
+    },
+    {
+        "merged": "F:\\Android SF SDK\\Timesheet\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "F:\\Android SF SDK\\Timesheet\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\authenticator.xml"
+    }
+]
